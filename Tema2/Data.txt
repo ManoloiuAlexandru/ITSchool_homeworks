@@ -1,0 +1,5 @@
+1. 4 => "este par". 5=> "este impar"
+2. 12 => "nu este divizibil cu 10" 
+3. 15 => "este divizibil cu 5"
+4. 1500 => "nu este cuprins intre 1 si 1000 este par" 
+5. -9 => "nr nu este positiv" 
