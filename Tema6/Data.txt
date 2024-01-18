@@ -1,1 +1,5 @@
-
+  1. ana are mere. => 3
+  2. alex => nr de vocale= nr. de consoane
+  3. ion =>noi
+  4. alex ana maria ioi
+  5 1234ion => 4
