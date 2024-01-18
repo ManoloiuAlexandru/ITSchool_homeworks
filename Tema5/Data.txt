@@ -1,1 +1,5 @@
-
+1. ana si alex => 5
+2. ionut si maria => 5
+3. ana => este palindrom
+4. aan ana => sunt anagrame
+5. 123dr => nu contine doar numere
